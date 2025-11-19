@@ -1,0 +1,501 @@
+Field of study,Last session debt,Other session debt,Attended classes %,Registred in VK conversations,Registred in moodle for all disciplins,Sportsman,Active in student activities,Teacher feedback,Continues studies
+"""100503""",True,False,50-80,True,True,False,False,bad,True
+"""090301""",True,False,< 30,True,True,False,True,good,True
+"""100503""",False,False,> 80,False,True,True,False,good,True
+"""100503""",True,False,< 30,False,False,False,False,ok,False
+"""090301""",True,True,30-50,True,False,False,True,ok,False
+"""090301""",False,True,50-80,False,True,True,True,ok,False
+"""100503""",True,True,50-80,False,False,False,True,ok,False
+"""090304""",False,False,50-80,False,True,False,False,ok,True
+"""100503""",False,True,> 80,False,True,True,False,good,True
+"""100503""",True,False,50-80,False,False,False,False,good,True
+"""100503""",True,True,30-50,True,True,False,True,bad,False
+"""100503""",True,False,> 80,True,True,True,False,good,True
+"""090301""",True,False,30-50,False,True,False,False,good,True
+"""100503""",False,False,< 30,False,True,False,True,ok,True
+"""090304""",True,True,< 30,False,False,True,False,good,False
+"""090301""",False,True,< 30,True,True,True,False,ok,True
+"""090304""",True,True,< 30,False,True,True,True,bad,True
+"""090304""",True,True,30-50,True,True,False,False,bad,True
+"""090304""",True,False,> 80,True,False,True,True,good,False
+"""090304""",False,True,> 80,True,True,False,True,bad,True
+"""090301""",True,True,50-80,False,False,True,True,good,True
+"""090301""",True,False,30-50,True,False,False,True,bad,False
+"""090304""",True,False,< 30,False,True,True,True,ok,False
+"""090304""",True,False,30-50,True,True,True,False,ok,True
+"""090301""",False,True,50-80,False,False,True,False,ok,False
+"""090301""",True,False,50-80,True,True,True,True,ok,True
+"""090301""",False,False,30-50,False,False,False,True,good,False
+"""100503""",False,False,30-50,True,False,True,False,bad,False
+"""100503""",False,True,30-50,False,True,True,True,good,True
+"""100503""",False,False,> 80,False,True,False,True,ok,True
+"""090304""",False,True,< 30,False,False,True,True,good,False
+"""100503""",False,True,30-50,False,False,False,False,bad,False
+"""090304""",True,False,30-50,True,False,True,False,good,False
+"""090304""",False,False,30-50,True,False,True,True,bad,True
+"""100503""",False,True,50-80,False,True,True,True,good,True
+"""090304""",False,False,50-80,True,True,False,False,bad,True
+"""100503""",True,False,> 80,False,True,True,False,bad,True
+"""100503""",True,True,< 30,False,True,True,True,ok,True
+"""090301""",False,True,> 80,True,True,True,True,bad,True
+"""100503""",True,False,< 30,False,False,False,False,ok,False
+"""090301""",False,True,50-80,False,True,False,False,ok,True
+"""100503""",False,False,50-80,True,True,True,False,ok,True
+"""100503""",True,False,50-80,False,True,False,True,good,True
+"""090301""",False,False,> 80,False,True,True,False,good,True
+"""090301""",True,True,30-50,False,True,True,True,good,True
+"""100503""",True,False,30-50,False,False,True,False,good,True
+"""090304""",False,False,50-80,True,False,True,False,bad,True
+"""090301""",False,False,30-50,True,False,True,False,bad,False
+"""090304""",True,True,30-50,True,True,True,False,good,True
+"""090304""",False,True,> 80,False,False,True,True,bad,False
+"""090304""",False,True,< 30,False,False,False,True,bad,False
+"""090301""",False,True,50-80,True,True,False,False,ok,True
+"""090304""",True,True,50-80,False,True,False,True,ok,True
+"""090301""",True,False,> 80,False,True,False,False,ok,True
+"""090304""",False,True,> 80,False,False,False,False,ok,True
+"""100503""",True,True,30-50,False,False,False,False,bad,False
+"""100503""",True,True,50-80,True,True,False,False,good,True
+"""090301""",True,False,< 30,True,True,True,True,bad,True
+"""100503""",True,True,> 80,True,False,True,False,bad,False
+"""100503""",True,True,< 30,False,False,True,False,bad,False
+"""090304""",False,False,< 30,True,True,True,True,ok,True
+"""090301""",False,True,50-80,True,True,False,False,ok,True
+"""090304""",False,False,50-80,False,False,False,False,ok,True
+"""090304""",True,False,> 80,False,True,True,False,good,True
+"""090304""",True,False,50-80,True,False,True,True,bad,False
+"""090304""",False,False,50-80,True,False,False,False,good,True
+"""090304""",True,False,50-80,True,False,True,True,ok,True
+"""090304""",False,True,< 30,True,False,True,False,good,False
+"""090304""",False,False,> 80,False,True,True,False,bad,True
+"""090301""",False,False,30-50,True,True,True,True,bad,True
+"""100503""",True,True,< 30,True,False,False,False,ok,False
+"""090304""",True,False,50-80,False,False,True,False,ok,False
+"""090304""",False,True,< 30,True,False,True,True,good,True
+"""090304""",False,True,50-80,False,False,False,True,ok,True
+"""090304""",False,True,50-80,False,False,False,True,ok,True
+"""090304""",False,False,< 30,False,True,True,True,bad,True
+"""090304""",True,False,> 80,True,True,False,True,ok,True
+"""100503""",True,False,50-80,True,True,True,False,ok,True
+"""100503""",False,True,> 80,False,True,True,True,bad,True
+"""090304""",False,False,30-50,True,False,False,False,bad,True
+"""100503""",True,False,50-80,True,False,True,False,good,False
+"""090301""",True,False,> 80,False,False,True,False,ok,True
+"""090304""",False,True,> 80,False,False,True,True,bad,False
+"""090301""",False,True,30-50,True,False,True,True,good,False
+"""090301""",False,False,> 80,False,True,False,False,good,True
+"""090304""",True,False,> 80,True,False,False,True,ok,True
+"""100503""",True,False,30-50,True,True,True,True,ok,True
+"""090301""",True,False,50-80,True,True,False,True,good,True
+"""090304""",False,True,> 80,True,True,True,True,bad,True
+"""090301""",False,True,> 80,False,True,True,False,good,True
+"""090301""",True,True,> 80,False,False,True,False,ok,False
+"""090301""",True,True,< 30,False,True,True,True,bad,True
+"""090301""",False,False,30-50,False,True,True,False,bad,True
+"""100503""",True,False,< 30,True,True,False,True,good,True
+"""090301""",True,False,30-50,True,False,True,True,ok,False
+"""090301""",False,True,50-80,False,False,False,False,good,False
+"""090301""",True,False,50-80,True,False,False,False,good,True
+"""100503""",False,True,> 80,True,True,True,False,good,False
+"""090301""",False,True,30-50,True,True,True,True,bad,True
+"""090301""",False,False,50-80,False,False,True,False,bad,True
+"""100503""",False,False,30-50,False,True,True,True,ok,True
+"""100503""",False,False,50-80,False,False,True,False,ok,True
+"""100503""",False,True,< 30,True,False,False,False,good,False
+"""090301""",False,False,50-80,False,True,True,True,good,True
+"""100503""",True,True,< 30,False,True,True,True,good,True
+"""100503""",False,False,50-80,False,True,False,True,ok,True
+"""090301""",False,True,> 80,False,True,False,True,bad,True
+"""100503""",True,True,< 30,False,False,True,True,bad,False
+"""090301""",True,False,50-80,False,False,False,True,good,False
+"""090304""",True,True,> 80,True,False,True,True,good,False
+"""100503""",False,True,< 30,True,False,False,True,good,True
+"""090304""",True,False,> 80,False,False,False,False,good,True
+"""090301""",False,True,30-50,False,True,True,True,ok,True
+"""100503""",False,False,30-50,True,False,False,True,bad,True
+"""090301""",False,True,< 30,True,False,False,False,good,False
+"""090304""",False,False,50-80,False,False,False,True,ok,True
+"""090301""",True,False,< 30,False,True,False,False,good,True
+"""100503""",True,True,> 80,False,True,False,False,good,True
+"""100503""",False,True,50-80,False,True,False,True,bad,True
+"""090304""",False,True,30-50,True,True,True,False,good,True
+"""090301""",False,True,50-80,False,False,True,True,bad,False
+"""100503""",True,True,30-50,False,False,False,False,bad,True
+"""090304""",False,False,50-80,False,True,True,False,bad,True
+"""100503""",False,True,50-80,False,True,True,False,ok,True
+"""100503""",True,False,50-80,True,False,True,True,ok,False
+"""090301""",True,False,> 80,True,False,False,True,bad,True
+"""100503""",False,True,> 80,True,True,True,False,good,True
+"""090301""",True,False,< 30,False,True,False,False,bad,True
+"""100503""",True,False,< 30,False,True,True,True,good,True
+"""090304""",False,False,30-50,True,True,False,True,bad,True
+"""100503""",True,False,> 80,False,False,False,False,good,False
+"""090301""",False,True,30-50,False,False,True,False,ok,False
+"""090301""",True,False,< 30,True,False,True,True,good,True
+"""090304""",False,True,30-50,True,True,False,True,bad,True
+"""100503""",False,True,< 30,True,True,True,True,ok,True
+"""100503""",False,False,> 80,True,False,True,True,good,True
+"""090304""",True,True,50-80,False,False,True,True,good,True
+"""100503""",False,True,> 80,False,False,False,False,good,True
+"""100503""",True,True,30-50,True,False,False,True,good,True
+"""090301""",False,False,30-50,False,True,True,False,good,True
+"""100503""",False,True,> 80,True,False,True,True,ok,False
+"""100503""",True,True,> 80,True,False,True,False,ok,False
+"""090304""",False,True,< 30,False,False,False,True,ok,True
+"""090304""",False,False,30-50,True,False,False,True,ok,True
+"""090301""",True,True,30-50,False,False,True,False,bad,False
+"""100503""",False,False,> 80,False,False,True,False,ok,True
+"""100503""",False,False,50-80,False,False,True,True,good,True
+"""100503""",False,False,30-50,False,True,True,True,good,True
+"""090301""",False,False,50-80,True,True,True,True,ok,True
+"""090301""",True,False,> 80,False,True,True,True,good,True
+"""090304""",True,False,> 80,True,True,False,True,ok,True
+"""090301""",False,True,< 30,True,False,True,False,good,False
+"""100503""",True,False,30-50,True,True,False,False,bad,True
+"""100503""",False,True,50-80,True,True,True,True,bad,True
+"""090301""",True,True,< 30,False,False,True,False,ok,False
+"""100503""",False,False,30-50,False,False,False,False,ok,False
+"""100503""",False,True,< 30,True,True,False,False,ok,True
+"""090301""",False,True,> 80,True,True,False,True,good,True
+"""090301""",False,True,30-50,False,False,False,False,ok,False
+"""100503""",False,True,< 30,True,True,True,True,bad,True
+"""100503""",False,False,< 30,False,False,False,False,good,True
+"""100503""",True,True,50-80,True,False,True,True,ok,False
+"""090304""",False,False,< 30,False,False,False,False,good,False
+"""090304""",True,True,30-50,True,False,True,True,good,False
+"""090304""",False,True,30-50,True,True,True,True,ok,True
+"""090301""",True,False,50-80,False,False,True,False,good,False
+"""090304""",True,True,30-50,True,False,True,True,bad,False
+"""090301""",True,True,> 80,True,True,True,True,bad,True
+"""090301""",False,True,30-50,False,False,True,True,good,True
+"""090304""",False,False,30-50,True,True,False,True,ok,True
+"""090304""",True,True,< 30,False,True,True,True,good,True
+"""090304""",False,False,< 30,False,True,False,True,bad,True
+"""100503""",True,True,30-50,True,False,False,True,good,False
+"""090304""",False,False,50-80,True,True,True,True,good,True
+"""100503""",True,False,< 30,True,True,False,False,bad,True
+"""090301""",True,True,50-80,True,False,True,False,good,False
+"""100503""",False,True,30-50,True,True,False,True,good,True
+"""090304""",True,False,30-50,True,True,True,True,ok,True
+"""090301""",False,False,> 80,True,True,False,False,ok,True
+"""090301""",True,True,< 30,False,True,True,False,bad,False
+"""090301""",True,False,30-50,True,True,True,False,bad,True
+"""100503""",False,True,> 80,False,False,True,True,bad,False
+"""090304""",False,True,< 30,True,True,True,False,ok,True
+"""090301""",False,True,30-50,True,True,False,True,bad,True
+"""090301""",True,True,30-50,False,False,True,True,bad,False
+"""090301""",False,False,< 30,True,False,False,False,bad,False
+"""100503""",True,True,< 30,True,False,False,True,ok,False
+"""100503""",True,False,< 30,False,True,False,True,good,True
+"""090304""",False,True,30-50,True,False,True,True,bad,False
+"""100503""",False,False,30-50,True,True,False,True,good,True
+"""090301""",True,True,> 80,True,True,False,False,bad,True
+"""090304""",True,False,50-80,False,False,False,False,good,False
+"""090301""",False,False,< 30,True,False,True,True,ok,False
+"""090301""",False,True,30-50,True,True,True,True,ok,True
+"""100503""",False,True,30-50,True,False,False,False,bad,True
+"""090304""",False,True,< 30,True,True,True,True,good,True
+"""100503""",False,True,50-80,False,False,True,False,ok,False
+"""100503""",True,False,< 30,False,False,False,True,bad,False
+"""090304""",True,True,50-80,True,False,False,True,bad,False
+"""090301""",True,False,30-50,True,True,True,False,ok,True
+"""090301""",True,False,50-80,False,False,False,False,ok,True
+"""090304""",False,True,> 80,False,True,True,False,bad,True
+"""090301""",False,False,30-50,True,True,True,False,good,True
+"""090304""",False,False,> 80,False,True,True,True,good,True
+"""090304""",True,False,< 30,True,True,True,False,good,True
+"""100503""",True,False,< 30,False,False,True,True,bad,False
+"""090304""",False,True,< 30,False,True,True,False,ok,True
+"""100503""",False,True,50-80,False,True,False,False,bad,True
+"""090301""",True,True,30-50,False,False,False,True,ok,False
+"""090301""",True,True,< 30,True,True,True,False,good,True
+"""090301""",False,False,< 30,False,False,True,False,good,False
+"""090301""",False,False,30-50,False,True,True,False,ok,True
+"""100503""",True,True,< 30,True,False,False,False,ok,False
+"""090301""",False,True,> 80,False,True,True,True,bad,True
+"""090304""",False,True,30-50,False,False,False,True,good,False
+"""090304""",False,False,30-50,True,True,True,False,bad,True
+"""090304""",True,True,30-50,False,True,True,False,bad,True
+"""100503""",True,True,> 80,True,False,False,False,bad,False
+"""090301""",True,True,30-50,True,False,False,True,good,False
+"""090301""",True,False,> 80,True,False,True,True,bad,True
+"""090301""",True,False,30-50,True,False,True,True,bad,False
+"""100503""",True,False,50-80,False,True,True,True,bad,True
+"""090304""",True,False,< 30,True,True,False,False,bad,True
+"""090304""",False,False,50-80,False,False,False,False,bad,True
+"""090301""",False,False,< 30,False,True,False,False,bad,True
+"""090304""",False,False,> 80,False,False,False,True,good,True
+"""090304""",False,False,50-80,False,False,False,False,bad,False
+"""100503""",False,True,30-50,False,True,False,True,ok,True
+"""100503""",False,True,< 30,False,True,True,True,bad,True
+"""100503""",False,False,< 30,False,True,True,False,bad,True
+"""100503""",True,False,50-80,False,True,False,False,good,True
+"""090301""",True,True,> 80,False,True,True,False,good,True
+"""100503""",False,False,50-80,False,True,True,True,ok,True
+"""090304""",False,False,> 80,True,True,False,True,ok,True
+"""090301""",True,False,> 80,True,False,True,False,good,True
+"""090304""",False,True,< 30,True,False,False,False,good,False
+"""090304""",False,True,50-80,False,False,False,True,bad,False
+"""090304""",True,True,50-80,True,False,True,False,good,True
+"""100503""",False,True,> 80,True,False,False,True,ok,True
+"""100503""",True,True,50-80,True,True,False,True,bad,True
+"""090301""",False,False,30-50,False,False,False,False,ok,False
+"""090301""",True,True,30-50,False,False,False,False,bad,False
+"""100503""",True,False,50-80,False,False,False,False,good,True
+"""090304""",True,False,50-80,False,False,False,False,ok,False
+"""090301""",False,True,> 80,True,False,False,True,bad,False
+"""100503""",True,True,30-50,True,False,False,True,bad,False
+"""100503""",False,False,30-50,True,False,True,True,good,True
+"""100503""",False,False,< 30,True,True,True,False,good,True
+"""090304""",False,False,> 80,False,True,True,True,good,True
+"""100503""",False,True,< 30,False,False,False,False,ok,False
+"""100503""",True,True,30-50,False,True,False,False,bad,False
+"""100503""",True,True,> 80,True,True,True,False,good,True
+"""100503""",False,True,50-80,False,True,True,False,ok,True
+"""090301""",False,True,> 80,False,True,True,False,ok,True
+"""090301""",True,False,50-80,True,False,False,False,ok,True
+"""100503""",False,True,50-80,True,True,True,True,good,True
+"""090304""",True,False,> 80,False,True,True,False,good,True
+"""090301""",False,False,50-80,False,True,False,True,bad,True
+"""100503""",False,False,< 30,False,False,True,True,bad,True
+"""090301""",True,True,30-50,False,False,False,False,good,False
+"""090301""",False,True,50-80,False,False,False,False,ok,False
+"""090304""",True,True,< 30,False,False,False,False,ok,True
+"""100503""",False,False,50-80,True,False,True,True,ok,True
+"""100503""",False,False,30-50,True,False,True,False,bad,False
+"""090304""",False,False,< 30,True,False,False,True,ok,True
+"""090304""",True,False,30-50,False,True,True,False,bad,True
+"""100503""",False,False,30-50,True,True,True,False,bad,True
+"""100503""",False,False,< 30,False,True,True,True,ok,True
+"""090304""",False,True,< 30,False,False,True,True,ok,False
+"""090301""",False,True,< 30,True,False,False,False,good,False
+"""090301""",True,True,> 80,False,False,True,True,good,True
+"""090304""",True,True,< 30,False,False,False,True,ok,False
+"""090301""",False,False,< 30,True,False,False,True,bad,True
+"""090304""",True,False,< 30,True,True,True,True,bad,True
+"""090301""",False,True,< 30,True,True,False,True,bad,True
+"""090301""",False,False,50-80,False,False,True,False,bad,True
+"""100503""",False,True,> 80,True,False,True,False,bad,True
+"""100503""",True,True,30-50,True,False,False,True,good,False
+"""090301""",True,True,< 30,False,False,False,False,ok,False
+"""090301""",True,False,50-80,True,True,False,False,good,True
+"""100503""",True,True,50-80,True,False,False,True,bad,False
+"""100503""",True,True,50-80,True,False,True,False,bad,False
+"""100503""",True,True,30-50,False,False,True,True,bad,False
+"""090304""",True,False,< 30,False,False,True,True,bad,False
+"""090301""",True,False,> 80,False,True,False,False,ok,True
+"""100503""",True,True,> 80,False,False,False,True,bad,False
+"""090301""",False,False,50-80,True,False,False,True,ok,True
+"""090304""",True,False,30-50,False,True,True,True,bad,True
+"""090304""",True,False,30-50,False,True,False,True,ok,True
+"""100503""",True,False,30-50,True,True,True,True,good,True
+"""090304""",True,False,> 80,True,False,False,False,bad,True
+"""090301""",True,False,50-80,True,False,True,False,ok,True
+"""100503""",True,False,< 30,False,True,True,True,good,True
+"""090301""",True,False,> 80,False,True,False,True,bad,True
+"""090301""",True,False,50-80,False,True,False,False,bad,True
+"""090304""",True,False,50-80,True,True,True,True,bad,True
+"""090304""",True,True,< 30,True,True,True,False,ok,True
+"""090304""",True,True,< 30,False,True,False,True,ok,True
+"""090304""",False,False,< 30,True,False,False,True,good,True
+"""090304""",False,True,30-50,True,False,True,True,ok,False
+"""100503""",True,True,< 30,True,False,False,True,ok,False
+"""090301""",True,False,50-80,False,True,True,True,bad,True
+"""090301""",False,False,< 30,True,True,True,True,bad,True
+"""090301""",True,False,50-80,True,True,False,True,bad,True
+"""090301""",False,True,> 80,False,True,False,False,bad,True
+"""090304""",False,True,30-50,False,True,False,False,bad,True
+"""090301""",False,False,> 80,True,True,False,False,bad,True
+"""100503""",False,False,> 80,True,False,False,True,bad,True
+"""100503""",False,False,50-80,False,False,True,True,good,True
+"""090301""",True,True,> 80,False,True,True,True,good,True
+"""090301""",False,True,50-80,True,False,False,True,good,True
+"""100503""",True,True,< 30,True,True,False,True,good,True
+"""100503""",True,True,< 30,True,False,False,True,bad,False
+"""090304""",False,False,50-80,True,True,True,True,good,True
+"""100503""",False,False,< 30,False,True,False,False,bad,False
+"""090304""",True,False,30-50,True,False,False,True,good,False
+"""090304""",False,False,> 80,True,False,True,False,ok,True
+"""090304""",False,True,30-50,False,True,True,False,good,True
+"""090304""",True,True,> 80,True,True,False,True,good,True
+"""090304""",True,False,< 30,False,False,False,True,bad,False
+"""090301""",False,False,30-50,True,False,False,False,good,False
+"""100503""",True,True,< 30,True,True,True,False,ok,True
+"""090304""",False,False,> 80,False,False,False,True,bad,True
+"""100503""",False,True,50-80,False,True,False,True,bad,True
+"""100503""",False,False,50-80,True,True,False,False,good,True
+"""090304""",True,False,30-50,True,True,True,True,bad,True
+"""090301""",True,False,< 30,True,True,True,True,bad,True
+"""090304""",True,False,< 30,False,False,False,True,bad,False
+"""090301""",True,False,30-50,True,False,False,False,bad,False
+"""100503""",True,False,50-80,False,False,True,False,bad,True
+"""090301""",False,False,> 80,False,False,True,False,bad,True
+"""090301""",False,True,30-50,True,False,True,True,ok,False
+"""090301""",False,True,> 80,False,False,True,True,good,True
+"""100503""",False,True,50-80,True,False,True,False,ok,True
+"""100503""",True,True,< 30,True,True,True,False,bad,True
+"""090301""",False,True,50-80,True,False,True,False,bad,False
+"""090301""",True,False,30-50,True,False,True,True,good,False
+"""090304""",False,False,< 30,True,True,True,False,ok,True
+"""090301""",True,True,30-50,False,False,False,False,good,False
+"""090304""",True,False,30-50,False,False,False,True,ok,False
+"""090301""",False,True,50-80,True,True,False,True,bad,True
+"""090304""",False,True,30-50,True,False,True,True,good,True
+"""100503""",False,False,50-80,False,False,False,False,good,True
+"""090301""",False,False,< 30,False,False,True,True,bad,False
+"""090301""",True,False,50-80,False,True,True,True,good,True
+"""090301""",False,True,< 30,False,False,False,False,ok,False
+"""090301""",False,False,50-80,True,False,True,True,ok,True
+"""090304""",True,True,> 80,True,True,False,False,ok,True
+"""090301""",False,True,> 80,False,False,False,False,ok,True
+"""100503""",False,True,30-50,True,True,False,True,bad,False
+"""100503""",False,False,50-80,False,True,True,True,good,True
+"""090301""",False,False,50-80,True,False,False,True,ok,True
+"""100503""",False,True,< 30,False,True,True,True,bad,True
+"""090301""",True,False,30-50,True,True,False,True,good,True
+"""090301""",False,False,50-80,False,False,False,True,good,True
+"""100503""",False,False,30-50,False,True,False,False,bad,True
+"""090301""",False,True,> 80,True,True,True,False,bad,True
+"""100503""",False,True,50-80,False,False,True,True,ok,False
+"""090304""",False,False,50-80,True,False,True,False,good,True
+"""090301""",True,True,30-50,True,False,False,True,good,False
+"""090304""",False,False,50-80,False,True,False,False,bad,True
+"""100503""",True,False,30-50,True,False,True,False,good,False
+"""090304""",True,False,50-80,True,True,True,False,ok,True
+"""090304""",False,False,< 30,True,True,True,True,good,True
+"""100503""",False,True,30-50,True,True,True,False,bad,True
+"""090304""",False,True,50-80,True,True,True,True,bad,True
+"""090304""",False,True,> 80,False,True,True,False,ok,True
+"""100503""",True,False,50-80,True,True,False,False,ok,True
+"""090304""",False,False,> 80,True,True,True,False,good,True
+"""100503""",False,False,> 80,True,False,False,False,good,True
+"""090304""",False,True,< 30,True,False,False,False,bad,False
+"""100503""",False,False,30-50,True,True,True,True,ok,False
+"""100503""",False,True,50-80,False,True,True,True,ok,False
+"""090304""",False,True,< 30,True,False,False,False,ok,False
+"""090304""",True,True,50-80,False,True,True,False,good,True
+"""090304""",True,True,> 80,False,False,True,False,ok,False
+"""090301""",False,True,30-50,False,False,False,False,bad,False
+"""090301""",False,True,50-80,False,False,False,True,bad,True
+"""090301""",False,False,50-80,True,True,False,False,good,True
+"""100503""",True,False,> 80,False,True,True,True,good,True
+"""090304""",False,True,50-80,False,False,False,False,ok,False
+"""100503""",True,True,50-80,True,False,True,True,good,False
+"""090301""",False,False,> 80,True,False,False,False,bad,False
+"""090304""",False,True,< 30,True,False,False,False,ok,False
+"""100503""",False,True,> 80,False,False,False,True,bad,False
+"""090304""",False,False,< 30,True,True,True,False,ok,True
+"""100503""",True,True,30-50,True,False,True,False,good,False
+"""090304""",True,True,< 30,False,True,False,False,ok,True
+"""090301""",False,True,< 30,True,False,False,True,ok,False
+"""090301""",False,False,30-50,True,True,False,False,bad,True
+"""090304""",True,False,< 30,True,True,True,False,bad,True
+"""100503""",True,False,> 80,True,True,False,True,ok,True
+"""090301""",True,True,< 30,False,True,True,True,good,True
+"""090301""",True,True,30-50,True,True,False,True,good,True
+"""090301""",False,False,> 80,True,True,False,False,bad,True
+"""090304""",True,True,30-50,False,False,False,False,good,False
+"""090304""",False,True,30-50,True,True,False,False,bad,True
+"""100503""",True,True,50-80,False,False,False,True,good,False
+"""100503""",True,True,50-80,True,True,False,False,ok,True
+"""100503""",True,True,30-50,False,True,True,False,bad,False
+"""090304""",True,False,30-50,False,False,False,True,bad,False
+"""090304""",True,True,30-50,False,True,True,True,ok,False
+"""100503""",False,False,50-80,False,False,False,True,bad,False
+"""100503""",False,True,50-80,True,False,False,True,good,True
+"""090304""",True,False,< 30,False,False,True,True,good,False
+"""100503""",True,True,< 30,True,False,False,False,bad,False
+"""090301""",False,False,30-50,False,True,True,True,good,True
+"""090304""",True,True,> 80,False,True,True,False,bad,True
+"""100503""",True,False,> 80,False,False,False,False,ok,True
+"""090304""",False,True,50-80,True,True,True,True,bad,True
+"""090301""",True,False,50-80,False,True,True,True,ok,True
+"""090304""",True,True,50-80,True,False,False,True,good,True
+"""090304""",False,False,30-50,True,True,True,False,ok,True
+"""090304""",False,False,> 80,True,False,False,True,good,False
+"""090304""",False,True,< 30,True,False,False,True,bad,False
+"""090301""",True,True,30-50,True,True,False,True,good,True
+"""090304""",False,False,< 30,True,True,False,True,bad,True
+"""090304""",False,True,< 30,True,True,True,True,bad,True
+"""100503""",False,False,30-50,True,False,False,False,ok,False
+"""090304""",False,False,< 30,True,False,False,False,ok,False
+"""100503""",False,False,> 80,False,True,True,False,ok,False
+"""090301""",False,True,< 30,False,True,False,True,ok,True
+"""090301""",True,False,> 80,False,True,False,True,good,True
+"""090301""",True,False,> 80,False,True,True,True,good,True
+"""090301""",False,True,> 80,False,False,True,False,good,True
+"""100503""",False,True,50-80,True,True,True,True,bad,False
+"""090304""",False,True,< 30,True,False,True,True,good,True
+"""090301""",True,True,30-50,True,False,True,True,good,False
+"""090304""",True,False,30-50,True,True,True,False,good,True
+"""100503""",True,False,< 30,True,True,True,True,ok,True
+"""100503""",True,False,50-80,True,True,False,False,good,True
+"""100503""",True,False,50-80,True,False,True,True,bad,False
+"""090301""",True,True,> 80,False,True,True,False,ok,True
+"""090304""",True,False,< 30,False,True,True,False,bad,True
+"""090304""",True,False,< 30,False,False,False,False,good,False
+"""090304""",True,True,30-50,False,True,False,True,ok,True
+"""100503""",False,False,< 30,True,False,True,True,bad,False
+"""090301""",False,False,50-80,True,True,True,False,good,True
+"""100503""",False,False,< 30,True,False,True,False,bad,False
+"""100503""",False,False,30-50,False,True,False,True,bad,True
+"""090304""",True,False,> 80,True,True,False,True,bad,True
+"""100503""",True,False,30-50,True,False,True,False,good,False
+"""090304""",False,True,30-50,True,False,False,True,good,False
+"""090301""",True,True,> 80,False,True,True,True,bad,True
+"""090304""",False,False,30-50,True,False,False,True,ok,True
+"""090301""",True,False,30-50,False,False,False,True,ok,False
+"""090304""",False,True,< 30,False,False,True,False,good,True
+"""100503""",True,False,< 30,False,False,True,True,good,False
+"""100503""",True,False,> 80,False,True,True,True,good,True
+"""090301""",False,False,< 30,True,True,True,False,good,True
+"""090301""",True,True,< 30,False,False,False,False,good,False
+"""090301""",False,False,30-50,False,False,False,True,ok,True
+"""090304""",False,True,50-80,True,False,False,True,good,True
+"""090304""",False,False,< 30,True,False,True,True,bad,False
+"""090301""",False,True,50-80,False,True,False,True,bad,True
+"""100503""",True,True,< 30,True,True,True,False,ok,True
+"""090304""",True,False,< 30,False,False,False,False,bad,True
+"""090304""",True,True,> 80,False,False,True,False,ok,False
+"""090304""",False,False,> 80,False,False,True,True,ok,True
+"""090301""",True,True,> 80,False,True,False,True,bad,True
+"""090301""",False,False,50-80,True,False,True,True,good,True
+"""090301""",True,False,30-50,False,True,True,True,bad,True
+"""090301""",True,True,< 30,True,False,False,False,bad,False
+"""090301""",True,False,< 30,True,True,True,False,ok,True
+"""100503""",False,False,< 30,True,False,True,True,bad,True
+"""100503""",True,True,50-80,True,True,True,False,ok,True
+"""090301""",True,False,> 80,False,False,False,True,good,True
+"""090304""",False,False,30-50,True,False,False,True,good,True
+"""090301""",True,True,50-80,False,False,True,False,good,False
+"""100503""",False,True,> 80,True,True,False,True,bad,True
+"""100503""",True,False,50-80,True,False,True,True,ok,True
+"""090304""",False,False,30-50,False,True,True,False,good,True
+"""100503""",False,True,> 80,False,True,True,True,ok,True
+"""090301""",True,True,50-80,False,False,True,True,ok,True
+"""090304""",False,False,30-50,True,False,True,False,good,True
+"""090301""",False,True,< 30,True,False,False,True,good,True
+"""090301""",False,False,30-50,False,True,True,False,ok,True
+"""090304""",False,False,< 30,False,False,False,True,good,False
+"""090301""",False,False,50-80,False,True,False,False,ok,True
+"""100503""",False,False,> 80,False,True,True,False,ok,True
+"""090301""",True,False,> 80,True,False,True,False,good,True
+"""090304""",False,True,50-80,False,False,False,True,bad,False
+"""090304""",False,True,> 80,False,False,False,False,good,True
+"""090304""",True,True,> 80,False,False,False,False,bad,False
+"""090301""",True,True,< 30,False,False,True,False,ok,False
+"""090304""",True,False,50-80,True,False,False,False,ok,False
+"""090304""",True,False,30-50,False,True,True,False,bad,True
+"""090301""",True,False,< 30,True,True,True,True,ok,True
+"""100503""",True,False,50-80,False,True,True,True,bad,True
+"""090301""",True,True,< 30,False,False,False,True,bad,False
+"""090304""",False,False,30-50,True,True,True,True,ok,True
+"""090304""",False,False,30-50,False,True,True,True,bad,True
+"""090301""",True,True,50-80,True,True,True,True,good,False
+"""100503""",False,True,30-50,True,True,True,True,good,True
+"""090304""",False,True,< 30,False,True,True,False,ok,True
+"""090304""",False,True,30-50,True,False,False,True,ok,False
+"""090304""",True,False,< 30,True,False,True,False,bad,False
+"""090301""",True,False,< 30,True,True,True,False,bad,True
+"""090304""",False,True,30-50,True,True,False,True,bad,True
+"""100503""",True,False,50-80,True,True,True,False,bad,True
